@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Django
+title: Nuxt
 nav_order: 3
 has_children: true
 permalink: /docs/Nuxt
 ---
 
-# Django
+# Nuxt
 
 description 내용 넣기
 
