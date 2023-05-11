@@ -1,5 +1,6 @@
 ---
+layout: layout
 title: 초기 세팅
-layout: home
+parent: Django
 nav_order: 1
 ---
