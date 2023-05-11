@@ -1,4 +1,4 @@
-title: Devkya Blog
+title: Devkya
 description: Django & Vue3 Developer
 theme: just-the-docs
 
@@ -7,4 +7,4 @@ url: https://devkya.github.io
 aux_links:
   devkya's github: https://github.com/devkya/
 
-favicon_ico: "/favicon.ico"
+favicon_ico: "/assets/favicon.ico"
