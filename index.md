@@ -1,8 +1,7 @@
 ---
 title: Home
-layout: default
+layout: home
 nav_order: 1
-permalink: /docs
 ---
 
 # Home
