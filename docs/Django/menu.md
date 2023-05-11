@@ -14,7 +14,8 @@ permalink: /docs/Django
 - [CCBV(Classy Class-Based Views)](https://ccbv.co.uk/)
 - [CDRF(Classy Django REST Framework)](https://www.cdrf.co/)
 - [DRF 문서](https://www.django-rest-framework.org/)
-- [dr-rest-auth 라이브러리](https://dj-rest-auth.readthedocs.io/)
-- [allauth 라이브러리](https://django-allauth.readthedocs.io/)
+- [dj-rest-auth 라이브러리](https://dj-rest-auth.readthedocs.io/)
+- [django-allauth 라이브러리](https://django-allauth.readthedocs.io/)
+- [Simple JWT 라이브러리](https://django-rest-framework-simplejwt.readthedocs.io/)
 
 {: .fs-6 .fw-300 }

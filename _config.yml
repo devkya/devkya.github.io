@@ -5,4 +5,6 @@ theme: just-the-docs
 url: https://devkya.github.io
 
 aux_links:
-  devkya github: https://github.com/devkya/
+  devkya's github: https://github.com/devkya/
+
+favicon_ico: "/favicon.ico"
