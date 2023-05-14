@@ -15,6 +15,7 @@ nav_order: 1
 1. 프로젝트 폴더에서(`package.json`이 있는 디렉토리) 커멘드 실행
   ```
   yarn add vuetify@next sass
+  yarn add @mdi/font  
   ```
   ```javascript
   // package.json 에 추가된 모듈
@@ -27,13 +28,14 @@ nav_order: 1
   }
   ...
   ```
-2. `plugin` 폴더 생성
-3. `plugin` 폴더 안에 `vuetify.js` or `vuetify.ts` 폴더 생성
+2. `plugins` 폴더 생성
+3. `plugins` 폴더 안에 `vuetify.js` or `vuetify.ts` 폴더 생성
   ```javascript
   import { createVuetify } from "vuetify";
   import * as components from "vuetify/components";
   import * as directives from "vuetify/directives";
   import "@mdi/font/css/materialdesignicons.css";
+  
   export default defineNuxtPlugin((nuxtApp) => {
     const vuetify = createVuetify({
       ssr: true,
@@ -101,7 +103,6 @@ nav_order: 1
     plugins: [],
     rules: {
       "no-console": "off",
-      ...
     },
   };
   ```
