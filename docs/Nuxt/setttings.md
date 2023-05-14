@@ -72,14 +72,14 @@ nav_order: 1
 
 1. 필요한 플러그인 설치  
   
-  ```js
-  // ESLint
+  ```console
+  #  ESLint
   yarn add --dev eslint
 
-  // Prettier
+  # Prettier
   yarn add --dev prettier eslint-config-prettier eslint-plugin-prettier
 
-  // TypeScript support
+  # TypeScript support
   yarn add --dev typescript @typescript-eslint/parser @nuxtjs/eslint-config-typescript
   ```
 
