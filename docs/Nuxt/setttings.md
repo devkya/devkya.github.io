@@ -4,7 +4,8 @@ title: 1. 초기 세팅
 parent: Nuxt3
 nav_order: 1
 ---
-# Nuxt3 - 초기 세팅
+
+# Nuxt3 - 초기 세팅하기
 ## Vuetify3 세팅
 * 참고 링크
   1. [Code Nontecou - How to use Vuetify with Nuxt 3](https://codybontecou.com/how-to-use-vuetify-with-nuxt-3.html)
@@ -29,13 +30,13 @@ nav_order: 1
   ...
   ```
 2. `plugins` 폴더 생성
-3. `plugins` 폴더 안에 `vuetify.js` or `vuetify.ts` 폴더 생성
+3. `plugins` 폴더 안에 `vuetify.js` or `vuetify.ts` 파일 생성
   ```javascript
   import { createVuetify } from "vuetify";
   import * as components from "vuetify/components";
   import * as directives from "vuetify/directives";
   import "@mdi/font/css/materialdesignicons.css";
-  
+
   export default defineNuxtPlugin((nuxtApp) => {
     const vuetify = createVuetify({
       ssr: true,
