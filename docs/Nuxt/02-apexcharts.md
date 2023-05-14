@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. ApexCarts 세팅
+title: 2. Nuxt3 에서 ApexCarts 사용하기
 parent: Nuxt3
 nav_order: 2
 ---

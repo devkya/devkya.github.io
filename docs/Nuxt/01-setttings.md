@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1. 초기 세팅
+title: 1. 초기 세팅하기
 parent: Nuxt3
 nav_order: 1
 ---
