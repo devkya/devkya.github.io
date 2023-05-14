@@ -70,7 +70,8 @@ nav_order: 1
 또한 VSCode extension 설치 vs 플러그인 직접 설치의 사용도 잘 설명해주니 참고하면 좋을 듯 하다.  
 나는 보통 플러그인 직접 설치로 사용하기 때문에 `Nuxt3`에서도 마찬가지로 세팅한다.   
 
-1. 필요한 플러그인 설치 
+1. 필요한 플러그인 설치  
+  
   ```console
   # ESLint
   yarn add --dev eslint
