@@ -71,7 +71,7 @@ nav_order: 1
 나는 보통 플러그인 직접 설치로 사용하기 때문에 `Nuxt3`에서도 마찬가지로 세팅한다.   
 
 1. 필요한 플러그인 설치 
-  ```
+  ```console
   # ESLint
   yarn add --dev eslint
 
