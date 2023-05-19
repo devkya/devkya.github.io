@@ -72,6 +72,8 @@ nav_order: 1
 
 5. 끝!
 
+---
+
 ## Eslint & Prettier 세팅
 
 - 참고 링크
