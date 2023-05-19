@@ -88,16 +88,16 @@ nav_order: 1
 
 1. 필요한 플러그인 설치
 
-```console
-#  ESLint
-yarn add --dev eslint
+   ```console
+   #  ESLint
+   yarn add --dev eslint
 
-# Prettier
-yarn add --dev prettier eslint-config-prettier eslint-plugin-prettier
+   # Prettier
+   yarn add --dev prettier eslint-config-prettier eslint-plugin-prettier
 
-# TypeScript support
-yarn add --dev typescript @typescript-eslint/parser @nuxtjs/eslint-config-typescript
-```
+   # TypeScript support
+   yarn add --dev typescript @typescript-eslint/parser @nuxtjs/eslint-config-typescript
+   ```
 
 2. `nuxt.config.ts`와 같은 레벨에 `.eslintrc.cjs` 생성
 
