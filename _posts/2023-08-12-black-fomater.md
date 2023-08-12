@@ -5,7 +5,7 @@ author: devkya
 categories: [Django]
 tags: [python, fomater, black]
 image:
-  path: /assets/img/posts/black-fomatter.png
+  path: /assets/img/posts/thumbnails/black-fomatter.png
   alt: preview
 ---
 
