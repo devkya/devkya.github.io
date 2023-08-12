@@ -1,6 +1,7 @@
 ---
 title: Python Black Formmater 사용하기(VsCode)
 date: 2019-08-11 00:34:00 +0900
+author: devkya
 categories: [Django]
 tags: []
 ---
@@ -35,24 +36,24 @@ VsCode 설정(User, Workspace …)이 뭔가 꼬였다고 판단된다. **스택
 
    </aside>
 
-![Desktop View](/assets/img/posts/vscode-setting.png){: width="700" height="400" }
+![vscode setting](/assets/img/posts/vscode-setting.png){: width="700" height="400" }
 
-1. VsCode Extension `black formmater` 설치
+2. VsCode Extension `black formmater` 설치
 
-![Desktop View](/assets/img/posts/balck-fomatter.png){: width="700" height="400" }
+![black fomatter](/assets/img/posts/black-fomatter.png){: width="700" height="400" }
 
-1. `cmd/ctrl` + `shift` + `p` 를 눌러 settings.json(user) 열기
+3. `cmd/ctrl` + `shift` + `p` 를 눌러 settings.json(user) 열기
 
    아래 코드 붙여넣기(`"python.formatting.provider": "none"` 인지 확인)
 
-```json
-"[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter",
-    "editor.formatOnSave": true
-  }
-```
+   ```json
+   "[python]": {
+       "editor.defaultFormatter": "ms-python.black-formatter",
+       "editor.formatOnSave": true
+     }
+   ```
 
-1. 작동됨
+4. 작동됨
 
 # 👋🏻여담
 
