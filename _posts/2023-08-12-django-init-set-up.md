@@ -1,9 +1,9 @@
 ---
-title: Python Black Formmater 사용하기(VsCode)
+title: 반드시 알아야 할 Django 초기 세팅
 date: 2023-08-12 00:34:00 +0900
 author: devkya
 categories: [Django]
-tags: [python, fomater, black]
+tags: [python, django, setting]
 image:
   path: /assets/img/posts/thumbnails/django.webp
   alt: preview
