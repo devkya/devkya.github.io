@@ -23,7 +23,7 @@ title: Devkya's Blog # the main title
 tagline: I develop everything. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  백엔드(django) 개발자입니다. Django를 사용하여 서비스를 개발하고 있습니다.
+  백엔드(django) 개발자입니다. Django를 사용하여 서비스를 개발하고 있습니다!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://devkya.github.io"
