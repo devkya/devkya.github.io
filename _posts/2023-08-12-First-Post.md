@@ -1,14 +1,12 @@
 ---
 title: Python Black Formmater 사용하기(VsCode)
-date: 2019-08-11 00:34:00 +0900
+date: 2023-08-12 00:34:00 +0900
 author: devkya
 categories: [Django]
 tags: []
 ---
 
-#
-
-# 🙂들어가며...
+# 🙂**들어가며...**
 
 일반적인 블로그에서 가상환경을 생성하고 (필자는 pipenv를 사용하고 있음) `pipenv install black` 로 `black` 패키지를 설치하고 (1) vscode에서 `python > Formatting: Provider` 를 `black` 으로 변경 (2) `Format On Save` 을 체크하면 활성화가 된다고 한다.
 
@@ -22,7 +20,7 @@ VsCode 설정(User, Workspace …)이 뭔가 꼬였다고 판단된다. **스택
 
 혼자 작업을 하기에 코드 포맷을 누군가와 공유하는 일이 적기 때문에 VsCode Extensions의 `Black Fommater` 를 활용하기로 했다.
 
-# 🛠트러블 슈팅
+# 🛠**트러블 슈팅**
 
 [공식문서를 참조하자!](https://github.com/microsoft/vscode-black-formatter)
 
@@ -55,7 +53,7 @@ VsCode 설정(User, Workspace …)이 뭔가 꼬였다고 판단된다. **스택
 
 4. 작동됨
 
-# 👋🏻여담
+# 👋🏻**여담**
 
 공식 문서에서도 `black formatter` 는 실험적이라고 나와 있다. 지속적으로 업데이트하고 있는 것으로 보인다.
 
