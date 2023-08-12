@@ -3,7 +3,10 @@ title: Python Black Formmater 사용하기(VsCode)
 date: 2023-08-12 00:34:00 +0900
 author: devkya
 categories: [Django]
-tags: []
+tags: [python, fomater, black]
+image:
+  path: /assets/img/posts/black-fomatter.png
+  alt: preview
 ---
 
 # 🙂**들어가며...**
