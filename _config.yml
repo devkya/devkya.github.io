@@ -18,7 +18,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Devkya's Blog # the main title
+title: DevKya's Blog # the main title
 
 tagline: I develop everything. # it will display as the sub-title
 
@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://devkya.github.io"
 
 github:
-  username: devkya # change to your github username
+  username: DevKya # change to your github username
 
 # twitter:
 #   username: twitter_username # change to your twitter username
@@ -37,8 +37,8 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Devkya
-  email: kihaok@g # change to your email address
+  name: DevKya
+  email: kihaok@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
