@@ -4,9 +4,6 @@ date: 2023-08-12 00:34:00 +0900
 author: devkya
 categories: [Django]
 tags: [python, fomater, black]
-image:
-  path: /assets/img/posts/thumbnails/black-fomatter.png
-  alt: preview
 ---
 
 # 🙂**들어가며...**
