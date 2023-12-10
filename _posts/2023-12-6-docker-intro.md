@@ -5,7 +5,7 @@ author: devkya
 categories: [Docker]
 tags: [python, django, docker]
 ---
-# Django 개발자에게 Docker는 필수인가?
+
 >"나는 백엔드 개발자가 될꺼야!" 라고 [[Django]] 개발자가 되신 분들도 있겠지만, 이 글을 보고 있는 대부분은`python` 을 시작으로 정신 차려보니 Django 개발자로 진로를 잡고 계신 분들도 있을거라 생각합니다.
 
 ## 가상환경
