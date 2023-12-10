@@ -1,5 +1,5 @@
 ---
-title: Obsidian & Django & Docker
+title: Django 개발자에게 Docker는 필수인가?
 date: 2023-12-6 00:00:00 +0900
 author: devkya
 categories: [Django]
